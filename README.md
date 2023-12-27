@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### A little bit about me:
-I am a junior developer and I am passionate about programming video games and coding in general.
+I'm a junior developer and I'm passionate about programming video games and coding in general.
 
 ### Here are a few languages I've spent time on along with associated frameworks/engines (if any):
 - python3 + pygame
