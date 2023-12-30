@@ -10,6 +10,7 @@ I'm a junior developer and I'm passionate about programming video games and codi
 ### Basic knowledge of these languages:
 - C++
 - HTML
+- javascript
 - MakeFile
 
 ### I haven't published all of my projects on github but so far here are the languages of those I have:
